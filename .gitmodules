@@ -1,0 +1,4 @@
+[submodule "tf-generic-develop"]
+	path = tf-generic-develop
+	url = https://github.com/AndrewMasalski/tf-generic-develop
+	branch = master
